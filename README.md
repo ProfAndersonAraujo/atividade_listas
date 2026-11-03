@@ -5,4 +5,4 @@
 3. Crie um programa que receba palavras inseridas pelo usuário e armazene-as em uma lista de strings. Identifique qual string possui o maior número de caracteres.
 
 #### Enviar o código da atividade para seu repositório no github.
-#### Cada exercício deve estar em um código separado, seugestão de nome: _exercicio1_listas.py, exercicio2_listas.py e exercicio3_listas.py._
+#### Cada exercício deve estar em um código separado, sugestão de nome: _exercicio1_listas.py, exercicio2_listas.py e exercicio3_listas.py._
